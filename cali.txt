@@ -1,0 +1,14 @@
+LEDS_WDTH               55
+MGSS_PRST               1
+THRS_XXXX               15
+THRS_YYYY               15
+THRS_ZZZZ               185
+CALB_BAND               5
+AVGS_AAAA               29
+AVGS_BBBB               30
+AVGS_CCCC               31
+AVGS_DDDD               30
+UP 1
+DOWN 2
+LEFT 3
+RIGHT 4
